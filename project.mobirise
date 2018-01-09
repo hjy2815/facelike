@@ -40,7 +40,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/facelikepavi99-107x106-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "sitemapSwitcher": "on"
